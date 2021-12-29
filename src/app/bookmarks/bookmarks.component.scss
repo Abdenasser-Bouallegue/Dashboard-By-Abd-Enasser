@@ -1,0 +1,11 @@
+.bookmarks-cover{
+height: 100%;
+overflow-y: auto;
+}
+
+.bookmarks-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+flex-wrap: wrap;
+}
